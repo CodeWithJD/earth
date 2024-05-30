@@ -2,10 +2,7 @@
     {
         "title": "Social Media",
         "links": [
-            {"url": "#", "text": "Homepage"},
-            {"url": "#", "text": "Twitter"},
-            {"url": "#", "text": "facebook"},
-            {"url": "#", "text": "telegram"}
+            {"url": "https://ablockchain.co", "text": "Homepage"}
         ]
     }
 ]
