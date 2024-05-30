@@ -2,10 +2,10 @@
     {
         "title": "Social Media",
         "links": [
-            {"url": "https://kbcfoundation.com", "text": "Homepage"},
-            {"url": "https://kbcfoundation.com", "text": "Twitter"},
-            {"url": "https://kbcfoundation.com", "text": "facebook"},
-            {"url": "https://kbcfoundation.com", "text": "telegram"}
+            {"url": "#", "text": "Homepage"},
+            {"url": "#", "text": "Twitter"},
+            {"url": "#", "text": "facebook"},
+            {"url": "#", "text": "telegram"}
         ]
     }
 ]
